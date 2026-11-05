@@ -70,8 +70,8 @@ Sebelum menjalankan proyek, pastikan perangkat kamu telah terinstal perangkat lu
 #### 1. Clone Repository
 Buka terminal atau Git Bash, lalu jalankan perintah:
 ```bash
-git clone [https://github.com/fasshashaa/app_timbangan_sawit.git](https://github.com/fasshashaa/app_timbangan_sawit.git)
-cd app_timbangan_sawit
+git clone [https://github.com/fasshashaa/timbangan_app.git](https://github.com/fasshashaa/timbangan_app.git)
+cd timbangan_app
 ```
 #### 2. Install Dependency
 ```bash
